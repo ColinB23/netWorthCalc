@@ -1,0 +1,28 @@
+C:\Users\Colin\Desktop\CISS 222\PersonalProjectBrodnik\bin\Debug\PersonalProjectBrodnik.exe.config
+C:\Users\Colin\Desktop\CISS 222\PersonalProjectBrodnik\bin\Debug\PersonalProjectBrodnik.exe
+C:\Users\Colin\Desktop\CISS 222\PersonalProjectBrodnik\bin\Debug\PersonalProjectBrodnik.pdb
+C:\Users\Colin\Desktop\CISS 222\PersonalProjectBrodnik\obj\Debug\PersonalProjectBrodnik.csprojAssemblyReference.cache
+C:\Users\Colin\Desktop\CISS 222\PersonalProjectBrodnik\obj\Debug\PersonalProjectBrodnik.Form1.resources
+C:\Users\Colin\Desktop\CISS 222\PersonalProjectBrodnik\obj\Debug\PersonalProjectBrodnik.Properties.Resources.resources
+C:\Users\Colin\Desktop\CISS 222\PersonalProjectBrodnik\obj\Debug\PersonalProjectBrodnik.csproj.GenerateResource.cache
+C:\Users\Colin\Desktop\CISS 222\PersonalProjectBrodnik\obj\Debug\PersonalProjectBrodnik.exe
+C:\Users\Colin\Desktop\CISS 222\PersonalProjectBrodnik\obj\Debug\PersonalProjectBrodnik.pdb
+C:\Users\Colin\Desktop\Project_Step3_ColinBrodnik\PersonalProjectBrodnik\bin\Debug\PersonalProjectBrodnik.exe.config
+C:\Users\Colin\Desktop\Project_Step3_ColinBrodnik\PersonalProjectBrodnik\bin\Debug\PersonalProjectBrodnik.exe
+C:\Users\Colin\Desktop\Project_Step3_ColinBrodnik\PersonalProjectBrodnik\bin\Debug\PersonalProjectBrodnik.pdb
+C:\Users\Colin\Desktop\Project_Step3_ColinBrodnik\PersonalProjectBrodnik\obj\Debug\PersonalProjectBrodnik.csprojAssemblyReference.cache
+C:\Users\Colin\Desktop\Project_Step3_ColinBrodnik\PersonalProjectBrodnik\obj\Debug\PersonalProjectBrodnik.Form1.resources
+C:\Users\Colin\Desktop\Project_Step3_ColinBrodnik\PersonalProjectBrodnik\obj\Debug\PersonalProjectBrodnik.Properties.Resources.resources
+C:\Users\Colin\Desktop\Project_Step3_ColinBrodnik\PersonalProjectBrodnik\obj\Debug\PersonalProjectBrodnik.csproj.GenerateResource.cache
+C:\Users\Colin\Desktop\Project_Step3_ColinBrodnik\PersonalProjectBrodnik\obj\Debug\PersonalProjectBrodnik.exe
+C:\Users\Colin\Desktop\Project_Step3_ColinBrodnik\PersonalProjectBrodnik\obj\Debug\PersonalProjectBrodnik.pdb
+D:\Completed School\Programming\advanced c#\CISS 222\Personal_Programming_Project_Colin_Brodnik\PersonalProjectBrodnik\bin\Debug\PersonalProjectBrodnik.exe.config
+D:\Completed School\Programming\advanced c#\CISS 222\Personal_Programming_Project_Colin_Brodnik\PersonalProjectBrodnik\bin\Debug\PersonalProjectBrodnik.exe
+D:\Completed School\Programming\advanced c#\CISS 222\Personal_Programming_Project_Colin_Brodnik\PersonalProjectBrodnik\bin\Debug\PersonalProjectBrodnik.pdb
+D:\Completed School\Programming\advanced c#\CISS 222\Personal_Programming_Project_Colin_Brodnik\PersonalProjectBrodnik\obj\Debug\PersonalProjectBrodnik.csprojAssemblyReference.cache
+D:\Completed School\Programming\advanced c#\CISS 222\Personal_Programming_Project_Colin_Brodnik\PersonalProjectBrodnik\obj\Debug\PersonalProjectBrodnik.Form1.resources
+D:\Completed School\Programming\advanced c#\CISS 222\Personal_Programming_Project_Colin_Brodnik\PersonalProjectBrodnik\obj\Debug\PersonalProjectBrodnik.Properties.Resources.resources
+D:\Completed School\Programming\advanced c#\CISS 222\Personal_Programming_Project_Colin_Brodnik\PersonalProjectBrodnik\obj\Debug\PersonalProjectBrodnik.csproj.GenerateResource.cache
+D:\Completed School\Programming\advanced c#\CISS 222\Personal_Programming_Project_Colin_Brodnik\PersonalProjectBrodnik\obj\Debug\PersonalProjectBrodnik.csproj.CoreCompileInputs.cache
+D:\Completed School\Programming\advanced c#\CISS 222\Personal_Programming_Project_Colin_Brodnik\PersonalProjectBrodnik\obj\Debug\PersonalProjectBrodnik.exe
+D:\Completed School\Programming\advanced c#\CISS 222\Personal_Programming_Project_Colin_Brodnik\PersonalProjectBrodnik\obj\Debug\PersonalProjectBrodnik.pdb

@@ -1,0 +1,40 @@
+Questions About Your CISS 222 Personal Programming Project
+
+Please answer each question using full sentences and paragraphs where appropriate.
+
+Your Name:  Colin Brodnik
+
+Program Name: Net Worth Calculator 
+
+Today's Date: 12/1/20
+
+======================================================================
+1. Why did you write this program?  What does it do for you and/or others?
+======================================================================
+
+I wrote this program so I can quickly calculate my net worth without having to add and subtract all the numbers myself.
+This way I can just find the numbers the program needs and can roughly calculate anyone's net worth.
+
+======================================================================
+2. What things surprised you while writing your program?
+======================================================================
+It surprised me how one little thing can make your whole program not work and cost you a lot of time.
+Like when i was writing the try catch statement I forgot to put the return; statement under the messagebox in the catch
+statement and this caused an error that cost me a lot of time.
+======================================================================
+3. What enhancements and/or improvements do you foresee for your program?
+======================================================================
+
+I want to add more categories in the future so my program takes into account all of someone's finances.
+I also want to add a whole investment feature that tracks there current investments and predicts how much they will
+be worth in x amount of years.
+I also want to add a feature that builds off of the investment feature where it can calculate how long it will take for 
+you to retire based off of cost of living and predicted investments each year.
+So the user would enter how much they invest each year and with me knowing how much they will have and their cost of living I could figure out when they could retire for how many years they want the money to last them. 
+So they would type how many years they want of money after retirement and I could calculate how long it would take them to reach that.
+
+======================================================================
+4. What did you learn from writing your program (technical and/or non-technical)?
+======================================================================
+
+I learned that when I start a new project that I want to work on it will never really stop because there will always be things that I can improve on in the program and it will never be done. It may be ready for people to use but it won't be done. I won't ever stop working on a project that I care about until I lose interest or find no use for it anymore.
